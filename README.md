@@ -13,6 +13,20 @@ Este guia serve para dar autonomia analítica a gestores, líderes e profissiona
 * Conduzir o raciocínio em três camadas analíticas essenciais: **Descritiva** (o que aconteceu), **Diagnóstica** (por que aconteceu) e **Preditiva** (o que significa para o futuro).
 * Evitar alucinações da IA aplicando o ceticismo humano, mantendo o controle estratégico, a injeção de contexto e a **tomada de decisão** (Decision Making) sempre nas mãos do operador.
 
+## Ferramentas adicionais
+
+### Skill para o Claude
+
+Para ajudar você nesta jornada de análise de dados, também foi construído um skill para o Claude
+
+https://berlotto.me/especiais/vibe_analysis_skill
+
+### GPT na OpenAI
+
+Da mesma forma, para ajudá-lo com estas análises quando usando o ChatGPT você pode utilizar o GPT "Vibe Análysis"
+
+https://chatgpt.com/g/g-69c534f65f748191b039577c908db75e-vibe-analysis
+
 **🔑 Palavras-chave:** *Data Analytics, Análise de Dados, Inteligência Artificial, Framework Analítico, Tomada de Decisão Baseada em Dados, Engenharia de Prompts, Vibe Coding, Business Intelligence.*
 
 ## 👨‍💻 Sobre o Autor
